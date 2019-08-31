@@ -94,7 +94,7 @@ Topics included/covered
 - Windows Store
 
 
-1.2. What is Progressive Web Apps (PWAs)
+1.2. What is Progressive Web Apps (PWAs)?
 ---------------------
 
 <div style="background-color:#4285f4; padding:10px; border-radius:3px; font-size:16px;">
@@ -135,12 +135,12 @@ It’s looking like Progressive Web Apps PWAs is a very hot topic these days, it
 
 <p>
  <figure>
- &nbsp;&nbsp;&nbsp; <img src="_images-pwa-progressive-web-apps/1.3.1-trends-pwa.png" alt="Progressive Web Apps (PWAs) Google Trends" title="Progressive Web Apps (PWAs) Google Trends" width="600" border="2" />
+ &nbsp;&nbsp;&nbsp; <img src="_images-pwa-progressive-web-apps/1.3.1-trends-pwa.png" alt="Progressive Web Apps (PWAs) Google Trends" title="Progressive Web Apps (PWAs) Google Trends" width="1000" border="2" />
  <figcaption>&nbsp;&nbsp;&nbsp; Image - Progressive Web Apps (PWAs) Google Trends</figcaption>
  </figure>
 </p>
 
-1.4. What Progressive Web Apps (PWAs) are not
+1.4. What Progressive Web Apps (PWAs) are not?
 ---------------------
 
 Progressive Web Apps (PWAs) are not:
