@@ -63,14 +63,10 @@ Topics included/covered
 
 1. [Introduction to Progressive Web Apps (PWAs)](#1-introduction-to-progressive-web-apps-pwas)
     - 1.1. [Questions while creating a Mobile App](#11-questions-while-creating-a-mobile-app)
-    - 1.2. [What is Progressive Web Apps (PWAs)?)?](#12-what-is-progressive-web-apps-(pwas)?)
+    - 1.2. [What is Progressive Web Apps (PWAs)?](#12-what-is-progressive-web-apps-(pwas))
     - 1.3. [Progressive Web Apps (PWAs) Trend](#13-progressive-web-apps-(pwas)-trend)
-    - 1.4. [What Progressive Web Apps (PWAs) are not?](#14-what-progressive-web-apps-(pwas)-are-not?)
-
-<!--   
-2. [Progressive Web Apps (PWAs) Resources](#2-progressive-web-apps-(pwas)-resources)
--->
-
+    - 1.4. [What Progressive Web Apps (PWAs) are not?](#14-what-progressive-web-apps-(pwas)-are-not)
+    
 1 Introduction to Progressive Web Apps (PWAs)
 =====================
 
@@ -98,7 +94,7 @@ Topics included/covered
 - Windows Store
 
 
-1.2. What is Progressive Web Apps (PWAs)?
+1.2. What is Progressive Web Apps (PWAs)
 ---------------------
 
 <div style="background-color:#4285f4; padding:10px; border-radius:3px; font-size:16px;">
@@ -144,10 +140,9 @@ It’s looking like Progressive Web Apps PWAs is a very hot topic these days, it
  </figure>
 </p>
 
-1.4. What Progressive Web Apps (PWAs) are not?
+1.4. What Progressive Web Apps (PWAs) are not
 ---------------------
 
 Progressive Web Apps (PWAs) are not:
 - The end of all native app development
 - What every web content needs to get converted into
-
