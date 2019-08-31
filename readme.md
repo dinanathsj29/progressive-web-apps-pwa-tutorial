@@ -63,9 +63,9 @@ Topics included/covered
 
 1. [Introduction to Progressive Web Apps (PWAs)](#1-introduction-to-progressive-web-apps-pwas)
     - 1.1. [Questions while creating a Mobile App](#11-questions-while-creating-a-mobile-app)
-    - 1.2. [What is Progressive Web Apps (PWAs)?](#12-what-is-progressive-web-apps-(pwas))
-    - 1.3. [Progressive Web Apps (PWAs) Trend](#13-progressive-web-apps-(pwas)-trend)
-    - 1.4. [What Progressive Web Apps (PWAs) are not?](#14-what-progressive-web-apps-(pwas)-are-not)
+    - 1.2. [What is Progressive Web Apps (PWAs)?](#12-what-is-progressive-web-apps-pwas)
+    - 1.3. [Progressive Web Apps (PWAs) Trend](#13-progressive-web-apps-pwas-trend)
+    - 1.4. [What Progressive Web Apps (PWAs) are not?](#14-what-progressive-web-apps-pwas-are-not)
     
 1 Introduction to Progressive Web Apps (PWAs)
 =====================
@@ -135,7 +135,7 @@ It’s looking like Progressive Web Apps PWAs is a very hot topic these days, it
 
 <p>
  <figure>
- &nbsp;&nbsp;&nbsp; <img src="_images-pwa-progressive-web-apps/1.3.1-trends_pwa.png" alt="Progressive Web Apps (PWAs) Google Trends" title="Progressive Web Apps (PWAs) Google Trends" width="600" border="2" />
+ &nbsp;&nbsp;&nbsp; <img src="_images-pwa-progressive-web-apps/1.3.1-trends-pwa.png" alt="Progressive Web Apps (PWAs) Google Trends" title="Progressive Web Apps (PWAs) Google Trends" width="600" border="2" />
  <figcaption>&nbsp;&nbsp;&nbsp; Image - Progressive Web Apps (PWAs) Google Trends</figcaption>
  </figure>
 </p>
